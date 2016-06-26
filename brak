@@ -1,0 +1,53 @@
+[33mcommit f5242a552b3549d67c657daaaa9106bf016da617[m
+Author: damiangraber <damian.graver@gmail.com>
+Date:   Sun Jun 26 23:19:34 2016 +0200
+
+    Revert "Dodanie pliku cwiczenie3.txt"
+    
+    This reverts commit 72276fe087a03ae571c9151d0ec88a2707639dc5.
+    
+    brak
+
+[33mcommit 72276fe087a03ae571c9151d0ec88a2707639dc5[m
+Author: damiangraber <damian.graver@gmail.com>
+Date:   Sun Jun 26 22:25:54 2016 +0200
+
+    Dodanie pliku cwiczenie3.txt
+    
+    Co mam tu zrobic
+
+[33mcommit 36c966ad736287fb6f7c87336bd0d083f3f07f3a[m
+Author: damiangraber <damian.graver@gmail.com>
+Date:   Sun Jun 26 22:18:26 2016 +0200
+
+    README.MD ostatni zappis
+
+[33mcommit 170fca5977edaa5be55b16e38435d9faff008f06[m
+Author: damiangraber <damian.graver@gmail.com>
+Date:   Sun Jun 26 22:17:05 2016 +0200
+
+    Usuniecie pliku cwiczenie2.txt
+
+[33mcommit 351536e222a09bbd53cf7411149f69d34ad89994[m
+Author: damiangraber <damian.graver@gmail.com>
+Date:   Sun Jun 26 22:13:57 2016 +0200
+
+    Dodanie pliku cwiczenie2.txt
+
+[33mcommit fe8841b923a3054310fc9559d5e201b4d5b6141a[m
+Author: damiangraber <damian.graver@gmail.com>
+Date:   Sun Jun 26 22:13:21 2016 +0200
+
+    Dodanie pliku cwiczenie2.txt
+
+[33mcommit 5929eaf40446ca86cd0aa05ead4303aa8fad57a2[m
+Author: damiangraber <damian.graver@gmail.com>
+Date:   Sun Jun 26 19:51:36 2016 +0200
+
+    Zmiany w pliku README
+
+[33mcommit db4ac7a893fb9490b0037eb58f28f3adb04052bf[m
+Author: damiangraber <damian.graver@gmail.com>
+Date:   Sun Jun 26 19:44:26 2016 +0200
+
+    Dodanie pliku README
